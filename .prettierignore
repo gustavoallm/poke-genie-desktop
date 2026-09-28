@@ -1,0 +1,8 @@
+node_modules/
+dist/
+out/
+samples/
+package-lock.json
+# Generated data: pvpoke downloads and OCR fixtures
+api/data/
+api/test/fixtures/

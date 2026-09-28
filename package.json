@@ -1,0 +1,27 @@
+{
+  "name": "poke-genie-desktop",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "api",
+    "front"
+  ],
+  "scripts": {
+    "extract": "npm run extract -w api --",
+    "rank": "npm run rank -w api --",
+    "score": "npm run score -w api --",
+    "regroup": "npm run regroup -w api --",
+    "dump-fixtures": "npm run dump-fixtures -w api --",
+    "ui": "node scripts/dev.mjs",
+    "test": "npm test --workspaces",
+    "typecheck": "npm run typecheck --workspaces",
+    "dev": "node scripts/dev.mjs",
+    "teams": "npm run teams -w api --",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.9.9"
+  }
+}

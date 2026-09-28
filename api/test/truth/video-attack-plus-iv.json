@@ -1,0 +1,52 @@
+{
+  "pokemon": [
+    {
+      "cp": 3068,
+      "nickname": ".M 84",
+      "species": "Rayquaza",
+      "hpMax": 160,
+      "ivs": { "atk": 15, "def": 11, "hp": 12 },
+      "moves": { "fast": "Dragon Tail", "charged": ["Outrage"] }
+    },
+    {
+      "cp": 3032,
+      "nickname": ".M 93",
+      "species": "Machamp",
+      "hpMax": 174,
+      "ivs": { "atk": 15, "def": 13, "hp": 14 },
+      "moves": { "fast": "Counter", "charged": ["Close Combat"] }
+    },
+    {
+      "cp": 2905,
+      "nickname": "Gyarados 87",
+      "species": "Gyarados",
+      "hpMax": 168,
+      "ivs": { "atk": 13, "def": 14, "hp": 12 },
+      "moves": { "fast": "Waterfall", "charged": ["Hydro Pump", "Crunch"] }
+    },
+    {
+      "cp": 2903,
+      "nickname": ".M 78",
+      "species": "Mewtwo",
+      "hpMax": 150,
+      "ivs": { "atk": 10, "def": 13, "hp": 12 },
+      "moves": { "fast": "Confusion", "charged": ["Psystrike"] }
+    },
+    {
+      "cp": 2898,
+      "nickname": "Palkia",
+      "species": "Palkia",
+      "hpMax": 136,
+      "ivs": { "atk": 12, "def": 10, "hp": 15 },
+      "moves": { "fast": "Dragon Tail", "charged": ["Draco Meteor"] }
+    },
+    {
+      "cp": 2875,
+      "nickname": "Dialga",
+      "species": "Dialga",
+      "hpMax": 144,
+      "ivs": { "atk": 13, "def": 14, "hp": 12 },
+      "moves": { "fast": "Dragon Breath", "charged": ["Draco Meteor"] }
+    }
+  ]
+}

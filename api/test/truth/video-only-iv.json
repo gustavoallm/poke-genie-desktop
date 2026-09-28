@@ -1,0 +1,13 @@
+{
+  "pokemon": [
+    { "cp": 3844, "nickname": ".M 71", "species": "Slaking", "hpMax": 223, "ivs": { "atk": 13, "def": 5, "hp": 14 } },
+    { "cp": 3716, "nickname": ".M 96", "species": "Dragonite", "hpMax": 175, "ivs": { "atk": 14, "def": 14, "hp": 15 } },
+    { "cp": 3496, "nickname": ".M 91 T", "species": "Rhyperior", "hpMax": 204, "ivs": { "atk": 12, "def": 14, "hp": 15 } },
+    { "cp": 3379, "nickname": ".M 93", "species": "Mewtwo", "hpMax": 161, "ivs": { "atk": 15, "def": 14, "hp": 13 } },
+    { "cp": 3244, "nickname": ".M 89 D", "species": "Zekrom", "hpMax": 155, "ivs": { "atk": 13, "def": 14, "hp": 13 } },
+    { "cp": 3211, "nickname": ".M 96", "species": "Groudon", "hpMax": 154, "ivs": { "atk": 13, "def": 15, "hp": 15 } },
+    { "cp": 3204, "nickname": ".M 84", "species": "Salamence", "hpMax": 168, "ivs": { "atk": 12, "def": 14, "hp": 12 } },
+    { "cp": 3129, "nickname": ".M 84 P", "species": "Rhyperior", "hpMax": 193, "ivs": { "atk": 11, "def": 13, "hp": 14 } },
+    { "cp": 3068, "nickname": ".M 84", "species": "Rayquaza", "hpMax": 160, "ivs": { "atk": 15, "def": 11, "hp": 12 } }
+  ]
+}
